@@ -2647,7 +2647,7 @@ ul.timeline > li > .timeline-badge {
 @media screen and (max-width: 650px) {
 	 
 	 .bg-home {
-	background: url(ShashankGauri/images/Photos/abc.jpg) no-repeat center center;
+	background: url(../images/Photos/abc.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
