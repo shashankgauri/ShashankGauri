@@ -2644,7 +2644,7 @@ ul.timeline > li > .timeline-badge {
 }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1920px) {
 	 
 	 .bg-home {
 	background: url(../images/photos/abc.jpg) no-repeat center center;
