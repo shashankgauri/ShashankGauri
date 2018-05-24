@@ -2647,7 +2647,7 @@ ul.timeline > li > .timeline-badge {
 @media screen and (max-width: 650px) {
 	 
 	 .bg-home {
-	background: url(../images/photos/abc.jpg) no-repeat center center;
+	background: url(https://github.com/shashankgauri/ShashankGauri/blob/master/images/Photos/abc.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -2656,7 +2656,7 @@ ul.timeline > li > .timeline-badge {
 
 
 .bg-wedding {
-	background: url(../images/photos/def.jpg) no-repeat center center;
+	background: url(ShashankGauri/images/Photos/def.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
