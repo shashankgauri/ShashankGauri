@@ -2643,3 +2643,24 @@ ul.timeline > li > .timeline-badge {
 	left: 42%;
 }
 }
+
+@media screen and (max-width: 600px) {
+	 
+	 .bg-home {
+	background: url(../images/photos/abc.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+.bg-wedding {
+	background: url(../images/photos/def.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+ }
