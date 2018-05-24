@@ -2663,4 +2663,11 @@ ul.timeline > li > .timeline-badge {
 	background-size: cover;
 }
 
+	.bg-people {
+	background: url(../images/Photos/pqr.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
  }
