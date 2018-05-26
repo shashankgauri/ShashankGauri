@@ -315,7 +315,7 @@ input, textarea {
 	overflow-x: hidden;
 }
 .bg-main-image-overlay-fixed {
-	background-color: rgba(255,255,255,0.6);
+	background-color: rgba(223,223,223,0.5);
 	width: 100%;
 	position: fixed;
 	height: 100%;
